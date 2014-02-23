@@ -1,0 +1,32 @@
+update
+compile
+eclipse
+exit
+eclipse
+compile
+run-main main.SimpleClusterApp.scala 2551
+exit
+compile
+run-main main.SimpleClusterApp 2551
+exit
+run-main main.SimpleClusterApp2 2554
+compile
+run-main main.SimpleClusterApp2 2554
+run-main main.SimpleClusterApp2 2556
+run-main main.SimpleClusterApp 2551
+run-main main.SimpleClusterApp 2552
+run-main main.SimpleClusterApp2 2556
+run-main main.SimpleClusterApp 2551
+run-main main.SimpleClusterApp2 2556
+update
+compile
+eclipse
+exit
+run-main main.SimpleClusterApp 2551
+run-main main.SimpleClusterApp2 2556
+run-main main.SimpleClusterApp 2551
+run-main main.SimpleClusterApp 2552
+run-main main.SimpleClusterApp 2551
+run-main main.SimpleClusterApp 2552
+exit
+run-main main.SimpleClusterApp 2552
